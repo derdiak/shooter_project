@@ -4,3 +4,5 @@
 **Game Shooter**
 
 ***Пример***
+
+*asdfsadf*
