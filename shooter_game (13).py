@@ -18,7 +18,7 @@ mixer.music.load('space.ogg')
 mixer.music.play()
 fire = mixer.Sound('fire.ogg')
 
-max_losses = 8
+max_losses = 10
 losses = 0
 score = 0
 qwerty = font.SysFont('arial', 30)
