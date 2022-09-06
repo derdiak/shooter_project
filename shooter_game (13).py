@@ -1,3 +1,4 @@
+# Jack branch
 from pygame import *
 from random import randint
 from time import time as timer
@@ -10,7 +11,7 @@ display.set_caption('shooter')
 background = transform.scale(image.load('galaxy.jpg'), (WIDTH, HEIGHT))
 
 clock = time.Clock()
-FPS = 75
+FPS = 100
 
 mixer.init()
 mixer.music.load('space.ogg')
